@@ -1,0 +1,35 @@
+{
+  "playerTitle": "Trình Phát Nhạc Của Tôi",
+  "backgroundColor": "#f8e6ff",
+  "playerColor": "rgba(209, 170, 255, 0.8)",
+  "titleBarColor": "#bb8ce8",
+  "progressBarColor": "#9966cc",
+  "backgroundImage": "https://assets-global.website-files.com/61e47fafb12bd56b40022c77/62c45e5db95c1404ee36864a_mck-2.webp",
+  "songs": [
+    {
+      "title": "Red Velvet - Cosmia",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "image": "/api/placeholder/400/320"
+    },
+    {
+      "title": "IU - Blueming",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "image": "/api/placeholder/400/320"
+    },
+    {
+      "title": "BTS - Dynamite",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "image": "/api/placeholder/400/320"
+    },
+    {
+      "title": "BLACKPINK - Pink Venom",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "image": "/api/placeholder/400/320"
+    },
+    {
+      "title": "NewJeans - Hype Boy",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "image": "/api/placeholder/400/320"
+    }
+  ]
+}
